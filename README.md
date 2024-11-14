@@ -1,6 +1,8 @@
 Installation Instructions:
 Clone git repo into IDE of choice.
 
+    git clone https://github.com/Dysania22/AI-testing
+
 pip install contents of requirements.txt. 
 Your IDE may prompt you to install these dependencies on its own. This is likely to happen when you configure the interpreter. If not, the following pip install commands should be sufficient.
 
