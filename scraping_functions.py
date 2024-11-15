@@ -53,6 +53,7 @@ def scraper(query, holistic_query):
             "Best Snippet": text,
             "Date": date
         })
+        print(f"{index}0 % finished")
         index = index + 1
 
     df = pd.DataFrame(patent_results, columns = ["Original Ranking",
