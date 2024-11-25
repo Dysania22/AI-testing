@@ -38,6 +38,7 @@ The project will load a web page.
 In the Keyword Search, input a short keyword search like would be commonly used in a google patents search.
 In the Longer Holistic Query blank, input a sentence or so that you is emblematic of what you are really looking for. 
 Something more complicated.
+
 Here is a sample query:
 
     Keyword Search: steam wand
@@ -45,3 +46,8 @@ Here is a sample query:
 
 That should produce a result like this:
 
+<img width="930" alt="image" src="https://github.com/user-attachments/assets/2863cb0d-5bcf-43b2-9df0-59ff331a44da">
+
+Note that these results may take up to 20 minutes to load. 
+If the page loads very quickly upon pressing search, but only load the table headings, then the webpage is just running a little slow.
+Just press search again and it usually works fine. The pains of loading individual webpages instead of just using patent retrieval APIs. 
