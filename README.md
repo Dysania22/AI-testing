@@ -31,12 +31,14 @@ So we can run either of the following two commands:
     python -m spacy download en 
     python -m spacy download en_core_web_sm
 
+If you are on a Mac, you may have to modify these commands to python3 instead of python
+
 If you run repeatedly into the en_core_web_sm error, close your IDE and restart.
 If you still run into problems, contact me via email. 
 
-At this point you should be able to run the program by running app.py/running the flask project. 
-
 # Usage instructions:
+
+At this point you should be able to run the program by running app.py/running the flask project. 
 
 The project will load a web page. 
 In the Keyword Search, input a **short** keyword search like would be commonly used in a google patents search.
