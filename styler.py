@@ -12,7 +12,6 @@ def color_background(val):
         red = 255
         green = int(255 * (val - 0.70) / 0.05)
     else:
-        # Interpolate between red (255, 0, 0) and yellow (255, 255, 0)
         red = 255
         green = 0
 

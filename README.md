@@ -1,5 +1,8 @@
 Installation Instructions:
-Clone git repo into IDE of choice.
+
+These installation instructions operate from the presumption that you could theoretically open a python file in an IDE and run it. So this will not walk you through installing python and more fundamental procedures.
+
+Clone git repo into IDE of choice. This is best done by opening a new project from Version Control in Pycharm or VisualStudio
 
     git clone https://github.com/Dysania22/AI-testing
 
@@ -27,7 +30,7 @@ So we can run either of the following two commands:
 If you run repeatedly into the en_core_web_sm error, close your IDE and restart.
 If you still run into problems, contact me via email. 
 
-At this point you should be able to run the program by running app.py
+At this point you should be able to run the program by running app.py/running the flask project. 
 
 
 
