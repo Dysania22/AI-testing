@@ -39,6 +39,11 @@ If you still run into problems, contact me via email.
 # Usage instructions:
 
 At this point you should be able to run the program by running app.py/running the flask project. 
+In the terminal, it will load a local page for you to navigate to. 
+Just click on the 127.0.0.1:5000.
+
+        WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead. 
+        Running on http://127.0.0.1:5000
 
 The project will load a web page. 
 In the Keyword Search, input a **short** keyword search like would be commonly used in a google patents search.
