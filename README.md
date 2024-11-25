@@ -13,7 +13,7 @@ But you can always do it from the terminal with the command below.
 Your IDE may prompt you to install these dependencies on its own. 
 This is likely to happen when you configure the interpreter/create a virtual environment. 
 If not, the following pip install commands should be sufficient. 
-I really recommend that you initiate a virtual environment if prompted.
+I _really_ recommend that you initiate a virtual environment if prompted.
 However, you can always pip install each dependency if you so desire.
 
     pip install flask
@@ -39,9 +39,10 @@ At this point you should be able to run the program by running app.py/running th
 # Usage instructions:
 
 The project will load a web page. 
-In the Keyword Search, input a short keyword search like would be commonly used in a google patents search.
-In the Longer Holistic Query blank, input a sentence or so that you is emblematic of what you are really looking for. 
-Something more complicated.
+In the Keyword Search, input a **short** keyword search like would be commonly used in a google patents search.
+In the Longer Holistic Query blank, input at least a sentence or so that you think is emblematic of what you are really looking for. 
+The longer query should be more complicated than the keyword query. 
+The longer and more detailed the better. 
 
 Here is a sample query:
 
