@@ -32,5 +32,16 @@ If you still run into problems, contact me via email.
 
 At this point you should be able to run the program by running app.py/running the flask project. 
 
+Usage instructions:
 
+The project will load a web page. 
+In the Keyword Search, input a short keyword search like would be commonly used in a google patents search.
+In the Longer Holistic Query blank, input a sentence or so that you is emblematic of what you are really looking for. 
+Something more complicated.
+Here is a sample query:
+
+    Keyword Search: steam wand
+    Longer Holistic Query: espresso machine steam wand with automatic temperature sensing and adjustable temperature and froth levels
+
+That should produce a result like this:
 
